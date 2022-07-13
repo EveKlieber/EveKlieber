@@ -1,6 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on our Meet-Up-Dogs-App
 
+🔭 I’m currently working on my personal Weather - forecast :)
 
 <!--
 **EveKlieber/EveKlieber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
