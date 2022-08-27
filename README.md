@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on our meet-up-dogs-app
+🔭 I’m currently working on my weather oppurtunity app (angular)
 
 
 
