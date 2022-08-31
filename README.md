@@ -1,6 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on my weather oppurtunity app (angular)
-
+ 🌱 I’m currently learning angular :)
 
 
 <!--
